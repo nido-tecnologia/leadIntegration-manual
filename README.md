@@ -1,4 +1,4 @@
-# Integração de Leads (NIDO)
+# Integração de Leads (NIDOImóvel)
 Manual de Integração
 
 ## Itens necessários
