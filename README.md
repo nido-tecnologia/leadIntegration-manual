@@ -122,3 +122,7 @@ var body = new {
 request.AddParameter("undefined", JsonConvert.SerializeObject(body), ParameterType.RequestBody);
 IRestResponse response = client.Execute(request);
 ```
+
+### Extras
+
+- [Integração de Formulários](./integracao_formularios.md)
