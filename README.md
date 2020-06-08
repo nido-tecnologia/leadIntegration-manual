@@ -17,6 +17,13 @@ Manual de Integração
 - **property_id**, referência do imóvel, ex: XX1234
 - **message**, mensagem do lead
 
+## Retornos da aplicação
+|Status|Descrição|
+|-:|-|
+|201|Sucesso|
+|40x|Problemas na validação dos dados enviados|
+|50x|Problema de Token ou Problema Genérico|
+
 ## Exemplo CURL
 ```shell
 curl -X POST \
