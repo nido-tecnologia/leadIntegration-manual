@@ -7,6 +7,13 @@ Manual de Integração
 - \_\_ENDPOINT_CLIENTE__
    - Ex: http://sistemadocliente.nidoimovel.com.br/index.php/api/siteFormsIntegration
    
+## Retornos da aplicação
+|Status|Descrição|
+|-:|-|
+|201|Sucesso|
+|40x|Problemas na validação dos dados enviados|
+|50x|Problema de Token ou Problema Genérico|
+   
 ## Campos do JSON
  - **id**, identificador do formulário no site
  - **created_at**, data de criação do formulário, formato *YYYY-MM-DD HH:MM:SS*
