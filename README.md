@@ -1,5 +1,7 @@
-# Integração de Leads (NIDOImóvel)
+# Integração de Leads de SITE (NIDOImóvel)
 Manual de Integração
+
+<span color="red">*Esta integração é exclusiva para leads do site da imobiliária</span>
 
 ## Itens necessários
 - \_\_ENDPOINT_CLIENTE__
